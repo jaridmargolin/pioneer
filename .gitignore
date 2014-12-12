@@ -17,6 +17,5 @@ coverage
 
 .DS_Store
 
-lib/
 src/pioneer.js
 src/environment.js
